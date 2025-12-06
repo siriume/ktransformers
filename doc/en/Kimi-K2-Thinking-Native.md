@@ -29,8 +29,8 @@ This tutorial demonstrates how to run Kimi-K2 model inference using SGLang integ
 
 Before starting, ensure you have:
 
-1. **KT-Kernel installed** - Follow the [installation guide](./kt-kernel_intro.md#installation)
-2. **SGLang installed** - Follow [SGLang integration steps](./kt-kernel_intro.md#integration-with-sglang)
+1. **KT-Kernel installed** - Follow the [installation guide](../../../kt-kernel/README.md#installation)
+2. **SGLang installed** - Follow [SGLang integration steps](../../../kt-kernel/README.md#integration-with-sglang)
 
 Note: Currently, please clone our custom SGLang repository:
 
@@ -94,7 +94,7 @@ python -m sglang.launch_server \
 
 It takes about 2~3 minutes to start the server.
 
-See [KT-Kernel Parameters](https://github.com/kvcache-ai/ktransformers/tree/main/kt-kernel#kt-kernel-parameters) for detailed parameter tuning guidelines.
+See [KT-Kernel Parameters](../../../kt-kernel/README.md#kt-kernel-parameters) for detailed parameter tuning guidelines.
 
 ### Key Parameters
 
